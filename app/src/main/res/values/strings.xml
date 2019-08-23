@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">데이터수집</string>
+    <string name="main_title">실내측위 데이터수집</string>
+</resources>
